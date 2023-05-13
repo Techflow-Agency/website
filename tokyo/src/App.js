@@ -14,7 +14,8 @@ const App = () => {
   return (
     <div className="tokyo_tm_all_wrap">
       <AllRoutes />
-      <FloatingWhatsApp />
+      <FloatingWhatsApp
+      phoneNumber="5554729259" />
       <ToastContainer />
     </div>
   );

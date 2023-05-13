@@ -48,7 +48,7 @@ const Resume = () => {
           id: 2,
           year: "2023",
           institute: "Harvardx",
-          degree: "CS50's Web Programming with Python and JavaScript",
+          degree: "Introduction to programming with Python",
         },
         {
           id: 3,
