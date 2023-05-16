@@ -7,16 +7,12 @@ const Intro = () => {
     designation: "Web Developer",
     text: (
       <>
-        <p>
-        Experienced and enthusiastic professional with a diverse background in web development, sales, and financial advisory. 
+        <p> 
+      Creativo Inteligente. Front-End Developer | HTML | CSS | Bootstrap | JavaScript | React | API`S | GIT |
 
-        Possessing 7 years of total experience, including 3 years as a Web Developer at Techflow.agency. Skilled in various technologies such as HTML5, CSS3, and JavaScript. Recognized for delivering exceptional results, including surpassing sales targets.
+Conocimientos técnicos, experiencia práctica, analítico, antecedentes empresariales, competitivo, amigable para el usuario, resolución de problemas y generación de ideas, curiosidad, asunción de riesgos, autogestión, apertura, enfoque, buena comunicación, carisma, agente de cambio.
         </p>
-        <p>
-        Proficient in team management, customer service, and financial product sales. Holds a Bachelor's degree in Accounting and Finance from Escuela Bancaria y Comercial. 
 
-        Certified in investment strategies by the AMIB and has completed courses in programming, cyber security, and web development. Strong problem-solving abilities and expertise in design thinking and back-end web development.
-        </p>
       </>
     ),
   };
