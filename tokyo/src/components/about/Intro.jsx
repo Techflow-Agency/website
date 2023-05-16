@@ -8,11 +8,9 @@ const Intro = () => {
     text: (
       <>
         <p> 
-      Creativo Inteligente. Front-End Developer | HTML | CSS | Bootstrap | JavaScript | React | API`S | GIT |
-
-Conocimientos técnicos, experiencia práctica, analítico, antecedentes empresariales, competitivo, amigable para el usuario, resolución de problemas y generación de ideas, curiosidad, asunción de riesgos, autogestión, apertura, enfoque, buena comunicación, carisma, agente de cambio.
+Como experto en HTML, CSS, Bootstrap, JavaScript, React, API's y GIT, poseo un amplio conocimiento técnico y experiencia práctica para desarrollar soluciones web de vanguardia. Mi enfoque analítico y antecedentes empresariales me permiten comprender sus necesidades y convertirlas en interfaces amigables para el usuario que cautivarán a su audiencia.
         </p>
-
+       <p>Soy un profesional competitivo que se esfuerza por superar las expectativas en cada proyecto. La resolución de problemas y la generación de ideas son mis fortalezas, lo que me permite encontrar soluciones creativas y efectivas para los desafíos que se presenten. Además, mi curiosidad innata y disposición para asumir riesgos me convierten en un agente de cambio, siempre buscando nuevas formas de innovar y mejorar.<p/>
       </>
     ),
   };
